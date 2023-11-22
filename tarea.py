@@ -7,3 +7,18 @@ def suma():
 suma()
 
 
+
+
+def multiplicar():
+    multiplica=1
+    for i in lista:
+        multiplica *= i
+    print(f"Resultado de la multiplicación {multiplica}")
+
+multiplicar()
+
+
+
+
+
+
